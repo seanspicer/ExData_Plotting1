@@ -2,6 +2,7 @@
 # plot1.R - Generate plot 1
 #
 # Author: Sean Spicer (sean.spicer@gmail.com)
+# Date: 11-Jul-2015
 #
 
 #

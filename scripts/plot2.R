@@ -2,6 +2,7 @@
 # plot2.R - Generate plot 2
 #
 # Author: Sean Spicer (sean.spicer@gmail.com)
+# Date: 11-Jul-2015
 #
 
 #

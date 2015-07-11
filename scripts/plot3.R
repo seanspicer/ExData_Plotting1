@@ -2,6 +2,7 @@
 # plot3.R - Generate plot 3
 #
 # Author: Sean Spicer (sean.spicer@gmail.com)
+# Date: 11-Jul-2015
 #
 
 #

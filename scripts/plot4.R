@@ -2,6 +2,7 @@
 # plot4.R - Generate plot 4
 #
 # Author: Sean Spicer (sean.spicer@gmail.com)
+# Date: 11-Jul-2015
 #
 
 #
